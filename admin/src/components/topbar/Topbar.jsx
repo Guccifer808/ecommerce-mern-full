@@ -7,16 +7,16 @@ export default function Topbar() {
     <div className='topbar'>
       <div className='topbarWrapper'>
         <div className='topLeft'>
-          <span className='logo'>SHOP.</span>
+          <span className='logo'>SHOP. admin</span>
         </div>
         <div className='topRight'>
           <div className='topbarIconContainer'>
             <NotificationsNone />
-            <span className='topIconBadge'>5</span>
+            <span className='topIconBadge'>2</span>
           </div>
           <div className='topbarIconContainer'>
             <Language />
-            <span className='topIconBadge'>8</span>
+            <span className='topIconBadge'>2</span>
           </div>
           <div className='topbarIconContainer'>
             <Settings />
